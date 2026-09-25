@@ -1,8 +1,8 @@
-# PROYECTO-IA
+ PROYECTO-IA
 #  Prototipo de Policiamiento Predictivo (SIDPOL)
 Repositorio oficial del modelo predictivo basado en Machine Learning para la clasificación de tipologías delictivas en el Perú.
 
-##  I. Contexto de la Investigación
+I. Contexto de la Investigación
 
 **1. ¿Cuál es el problema?**
 La limitada capacidad analítica de las instituciones de seguridad ciudadana para predecir y clasificar automáticamente las tipologías de delitos basándose en datos históricos masivos.
@@ -14,7 +14,7 @@ Desarrollar, evaluar y comparar modelos de Machine Learning (Regresión Logísti
 El Modelo Base (Regresión Logística multinomial con pesos balanceados) obtuvo el mayor rendimiento predictivo global (F1-Score Macro: 0.1306), demostrando que la conversión nominal de variables geográficas de alta cardinalidad degrada la capacidad de algoritmos basados en distancias (KNN).
 
 
-##  II. Fuente de Datos
+II. Fuente de Datos
 
 **3. ¿Qué dataset se utilizó?**
 Los datos abiertos oficiales del Sistema de Denuncias Policiales (SIDPOL) del Ministerio del Interior del Perú, abarcando 369,100 registros desde el año 2018 hasta julio de 2026.
@@ -23,7 +23,7 @@ Los datos abiertos oficiales del Sistema de Denuncias Policiales (SIDPOL) del Mi
 El archivo original puede ser descargado desde la Plataforma Nacional de Datos Abiertos del Estado Peruano (Sección Observatorio Nacional de Seguridad Ciudadana) o contactando a la entidad.
 
 
-##  III. Guía Técnica y Reproducibilidad
+III. Guía Técnica y Reproducibilidad
 
 **5. ¿Cómo instalar el proyecto?**
 No se requiere instalación local compleja. Basta con clonar este repositorio y cargar el entorno interactivo (Google Colab / Jupyter). Las dependencias requeridas están documentadas en el archivo `requirements.txt`.
