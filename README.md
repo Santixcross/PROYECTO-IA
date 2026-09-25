@@ -13,7 +13,6 @@ Desarrollar, evaluar y comparar modelos de Machine Learning (Regresión Logísti
 **10. ¿Cuáles fueron los resultados?**
 El Modelo Base (Regresión Logística multinomial con pesos balanceados) obtuvo el mayor rendimiento predictivo global (F1-Score Macro: 0.1306), demostrando que la conversión nominal de variables geográficas de alta cardinalidad degrada la capacidad de algoritmos basados en distancias (KNN).
 
----
 
 ##  II. Fuente de Datos
 
@@ -23,7 +22,6 @@ Los datos abiertos oficiales del Sistema de Denuncias Policiales (SIDPOL) del Mi
 **4. ¿Cómo obtener los datos?**
 El archivo original puede ser descargado desde la Plataforma Nacional de Datos Abiertos del Estado Peruano (Sección Observatorio Nacional de Seguridad Ciudadana) o contactando a la entidad.
 
----
 
 ##  III. Guía Técnica y Reproducibilidad
 
