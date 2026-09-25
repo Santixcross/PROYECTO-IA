@@ -1,5 +1,5 @@
  PROYECTO-IA
-Prototipo de Policiamiento Predictivo (SIDPOL)
+**Prototipo de Policiamiento Predictivo (SIDPOL)
 Repositorio oficial del modelo predictivo basado en Machine Learning para la clasificación de tipologías delictivas en el Perú.
 
 I. Contexto de la Investigación
