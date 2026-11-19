@@ -6,7 +6,7 @@ Proyecto de Inteligencia Artificial (FIEI - UNFV) que combina **Machine Learning
 
 * `data/`: Dataset tabular histórico de denuncias policiales (`denuncias_policiales.csv`).
 * `docs/`: Informe final de investigación en formato PDF.
-* `notebooks/`: Cuaderno reproducible de Google Colab (`PROYECTOA_IA_v2_0.ipynb`).
+* `notebooks/`: Cuaderno reproducible de Google Colab (`PROYECTOA_IA_v2_0 FINAL.ipynb`).
 * `results/`: Gráficos de EDA, matrices de confusión, curvas de aprendizaje de la CNN y capturas del prototipo.
 * `requirements.txt`: Dependencias de Python necesarias para ejecutar el proyecto.
 
